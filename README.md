@@ -7,9 +7,41 @@
 ---
 
 ## 🛠️ Tools & Technologies I Work With  
-- Git, GitHub, Jenkins, Docker, Kubernetes, Helm  
-- Terraform, Ansible, Prometheus, ELK, AWS Cloud  
-- CI/CD Automation & Cloud Infrastructure  
+
+- **Version Control & Collaboration**  
+  Git, GitHub, GitHub Actions, GitLab CI/CD, Bitbucket  
+
+- **CI/CD & Automation**  
+  Jenkins, ArgoCD, Tekton, Spinnaker  
+
+- **Containerization & Orchestration**  
+  Docker, Podman, Kubernetes, Helm, Kustomize  
+
+- **Infrastructure as Code (IaC)**  
+  Terraform, Ansible, Pulumi, AWS CloudFormation  
+
+- **Cloud Platforms**  
+  AWS (EC2, S3, EKS, Lambda, CloudFront, RDS)  
+  Microsoft Azure (AKS, ACR, Functions, DevOps Pipelines)  
+  Google Cloud (GKE, Cloud Run, Pub/Sub)  
+
+- **Monitoring & Logging**  
+  Prometheus, Grafana, Loki, ELK Stack (Elasticsearch, Logstash, Kibana), Jaeger  
+
+- **Security & DevSecOps**  
+  Trivy, Aqua Security, Vault, SonarQube, Snyk  
+
+- **Databases & Messaging**  
+  MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Kafka  
+
+- **Scripting & Programming**  
+  Bash, Python, Node.js, FastAPI  
+
+- **AI/ML & Cloud AI Tools**  
+  Docker AI, Azure Machine Learning, AWS SageMaker, TensorFlow (basic integration for DevOps workflows)  
+
+- **Other Tools**  
+  Nginx, Apache, Traefik, GitOps Workflows  
 
 ---
 
@@ -28,8 +60,8 @@
 
 ---
 
-## 📌 Upcoming  
-✨ Real-world DevOps Projects Coming Soon – Stay Tuned!  
+## 📌 Upcoming Projects  
+✨ Real-world DevOps Projects (CI/CD, Kubernetes, Cloud) Coming Soon – Stay Tuned!  
 
 ---
 
