@@ -9,4 +9,4 @@
 
 🛠️ Real-world DevOps Projects Coming Soon – Stay Tuned!
 
-📬 Connect with me: kumar.diwana1994@gmail.com
+📬 Connect with me:techwithdiwana@gmail.com
