@@ -65,9 +65,10 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-techwithdiwana-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techwithdiwana/)  
-[![YouTube Channel](https://img.shields.io/badge/YouTube-TechWithDiwana-red?logo=youtube&logoColor=white)](https://youtube.com/@techwithdiwana)  
-[![Gmail](https://img.shields.io/badge/Email-techwithdiwana%40gmail.com-green?logo=gmail&logoColor=white)](mailto:techwithdiwana@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-techwithdiwana-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techwithdiwana/) 
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TechWithDiwana-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@techwithdiwana) 
+[![Gmail](https://img.shields.io/badge/Email-techwithdiwana%40gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techwithdiwana@gmail.com)
+
 
