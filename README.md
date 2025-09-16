@@ -65,4 +65,9 @@
 
 ---
 
-📧 **Connect with me:** [techwithdiwana@gmail.com](mailto:techwithdiwana@gmail.com)  
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-techwithdiwana-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techwithdiwana/)  
+[![YouTube Channel](https://img.shields.io/badge/YouTube-TechWithDiwana-red?logo=youtube&logoColor=white)](https://youtube.com/@techwithdiwana)  
+[![Gmail](https://img.shields.io/badge/Email-techwithdiwana%40gmail.com-green?logo=gmail&logoColor=white)](mailto:techwithdiwana@gmail.com)
+
